@@ -9,5 +9,5 @@ etc.
   2.Indicadores: Informação sobre os principais indicadores financeiros da empresa, P/L, P/Sales, P/VPA, Lucro Líquido e a comparação com os principais concorrentes
 de mercado.
 
-  3. Posição: Traz todas as combinações possíveis para mesma data de vencimento de estratégia de bull-call-spread, isto é, compra de uma call ITM e venda de uma call ATM.
+ 3. Posição: Traz todas as combinações possíveis para mesma data de vencimento de estratégia de bull-call-spread, isto é, compra de uma call ITM e venda de uma call ATM.
 
